@@ -1,2 +1,2 @@
-# jasonkim.org
+# jasonkim.design
 A portfolio website for Jason Kim.
